@@ -6,6 +6,8 @@
   "description": "A simple helpful robot for DevOpsDays Chicago",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-analytics": "^1.1.1",
+    "hubot-caps-lock": "^1.0.3",
     "hubot-daily-update": "^1.1.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
